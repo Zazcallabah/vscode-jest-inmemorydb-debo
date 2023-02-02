@@ -1,0 +1,18 @@
+# package directories
+node_modules
+jspm_packages
+
+# mac os
+.DS_Store
+
+test-reports
+test-results
+
+dist
+
+# env
+.env
+
+yarn-error.log
+
+coverage
